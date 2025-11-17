@@ -1,0 +1,23 @@
+{
+  "name": "EgoBOT",
+  "short_name": "EgoBOT",
+  "description": "Yapay Zeka Asistanı",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon.ico",
+      "sizes": "180x180",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+  ]
+}
