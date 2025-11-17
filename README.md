@@ -1,0 +1,2 @@
+# EgoBOT
+Basic Ai Bot
