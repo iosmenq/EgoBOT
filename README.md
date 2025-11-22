@@ -1,3 +1,3 @@
 # EgoBOT
-Basic Ai Bot
+Basic Turkish Ai Bot
 [EgoBOT](https://egobot.netlify.app)
